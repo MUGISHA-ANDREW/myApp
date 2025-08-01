@@ -6,7 +6,7 @@
 </head>
 <body>
 <div class="container mt-5"><div class="container mt-4">
-    <h2>Lecturerhfyurr87t7878t8rx76r8786v8 bv8t87587t8 List</h2>
+    <h2>Lecturer List</h2>
     <a href="{{ route('lecturers.create') }}" class="btn btn-primary mb-3">Add Lecturer</a>
 
     @if(session('success'))
